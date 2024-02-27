@@ -1,0 +1,11 @@
+p {
+    color:      rgb(67, 253, 61);
+    background-color: rgb(53, 33, 33);
+    font-size: 12px;
+}
+
+h1 { border: 5px solid red; }
+h2 { border:5px solid rgb(98,0,255);}
+h3 { border: 5px solid rgb(136,255,0);}
+H4 { border: 5px solid rgb(233,213,213);}
+h5 { BORDER: 5px solid rgb(111,0,255); }
