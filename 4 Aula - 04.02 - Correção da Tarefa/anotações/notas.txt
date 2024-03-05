@@ -1,0 +1,87 @@
+<!-- 
+    Primeira tag utilizada: title
+    Altera o titulo da página no navegador
+   
+    <title>     </title> 
+    
+    --------------------------------------
+
+    Segunda tag utilizada: psge-container
+    É uma classe do CSS que altera elementos  específicos, 
+    permite que eu possa selecionar elementos específicos para 
+    alterar
+
+    .page-container { } 
+
+    --------------------------------------
+
+    Terceira tag: section
+
+    <section> </sectiom>
+
+    ---------------------------------------
+
+    Quarta tag: img
+
+     <img src="src/images/avatar.png" alt="Avatar de HAILTON CÉSAR ALVES DOS REIS">
+
+    ---------------------------------------
+
+    Quinta tag: h1, h2, h3, h4, h5, h6
+    Utilizada para diferenciar os títulos 
+
+     <h1> </h1>
+     <h2> </h2>
+     <h3> </h3>
+     <h4> </h4>
+     <h5> </h5>
+     <h6> </h6>
+
+    ------------------------------------------
+    Sexta tag: p -- (no HTML)
+     Indica Parágrafo
+     <p> </p>
+
+    p {} -- (no css)
+    p {
+        text-align: justify
+    }
+    -------------------------------------------
+
+    Sétima tag: ul e li(adiciona os elementos)
+    lista não ordenada
+
+    <ul>
+        <li> </li>
+    </ul>
+
+    --------------------------------------------
+
+    Oitava tag: ol e li(adiciona os elementos)
+    lista ordenada
+
+    <ol>
+        <li> </li>
+    </ol>
+
+    --------------------------------------------
+
+    Nona tag: href
+    Cria links dentro da página
+
+    <a href = "link">
+
+    --------------------------------------------
+
+    décima tag: strong
+    Deixa a frase/palavra em negrito
+
+    <strong> </strong>
+
+    ---------------------------------------------
+
+    Décima tag: Footer
+    Rodapé da página
+
+    <footer> </footer>
+    !-->
