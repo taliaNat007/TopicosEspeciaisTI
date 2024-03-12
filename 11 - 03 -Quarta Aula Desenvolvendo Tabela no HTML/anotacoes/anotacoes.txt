@@ -1,0 +1,70 @@
+    Primeira tag: table
+    Cria tabela
+
+    <table> </table>
+    ------------------------------------
+    
+    Segunda tag: tr
+    Representa uma linha na tabela
+
+    <tr> </tr>
+    ------------------------------------
+    
+    Terceira tag: td
+    Representa uma célula na tabela
+
+    <td> </td>
+    ------------------------------------
+    
+    Quarta tag: th
+    Tag do tipo título
+
+    <th> </th>
+    ------------------------------------
+      
+    Quinta tag: thead
+    Representa o cabeçalho da tabela
+
+    <thead></thead>
+    ------------------------------------
+
+    Sexta tag: tbody
+    Representa o corpo da tabela
+
+    <tbody></tbody>
+    ------------------------------------
+
+    Sétima tag: tfoot
+    Representa o rodapé da tabela
+
+    <tfoot></tfoot>
+    -------------------------------------
+
+    Oitava tag: &nbsp;
+    A entidade &nbsp; é uma técnica de espaço
+    
+    <th> &nbsp; </th>
+    --------------------------------------
+
+    Nona tag: Colspan e Rowspan
+    Atributos que mesclam células
+
+    Exemplo¹:  colspan = "x" (irá mesclar coluna)
+    Exemplo²: rowspan = "x" (irá mesclar linhas)
+    ---------------------------------------
+
+    Décima tag: caption
+    Define um título. A tag <caption> não será 
+    composta por células, portanto ficará acima da tabela, como um título.
+
+    <caption> </caption>
+    ---------------------------------------
+
+    Décima Primeira tag: colgroup
+    Elemento que permite criar um grupo de colunas, podendo assim estilizar diversas colunas 
+    de uma só vez.
+
+    Elemento: <colgroup> </colgroup>
+
+    Tag: <col> </col>
+    ---------------------------------------
