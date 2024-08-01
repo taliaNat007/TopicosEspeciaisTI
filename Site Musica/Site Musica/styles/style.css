@@ -1,0 +1,54 @@
+/**A FONTE NÃO ESTÁ MUDANDO OBS: FAZER ESSA ALTERAÇÃO*/
+body{
+    /*COR DO CORPO DO SITE*/
+    background-color: rgb(34, 34, 34);
+    font-family: poppinsregular;
+    color: white;  /*COR DE TODAS AS FONTES*/
+    max-width: 1200px; /*ELEMENTOS JUNTOS E ESTATICOS AO DAR ZOOM*/
+    margin: 0 auto;/*SITE NO CENTRO DA TELA AO DAR ZOOM*/
+    padding: 15px; /*aumenta a área interna do elemento, empurrando o conteúdo para longe das bordas.*/
+}
+
+header {
+    display: flex; /*POSICIONAR OS ELEMENTOS NA TELA*/
+    flex-direction: row; /*DIREÇÃO DA DIV EM LINHA*/
+    justify-content: space-between; /*CRIAR UM ESPAÇO ENTRE AS DIVS*/
+    align-items: center; /*alinhamento no meio*/ 
+}
+
+/*Estilo do título*/
+#title{
+    flex-direction: column; 
+    line-height: 10px; /*espaçamento entre as linhas*/
+}
+
+li{
+    display: inline-block; /*coloca as linha do menu em linha*/
+    margin: 15px; 
+}
+
+h1{
+    font-weight: 200; /*AFINAR A FONTE*/
+    font-family: poppinsregular;  
+} 
+
+main {
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+}
+
+h2{
+    font-size: 56px;
+    line-height: 10px;
+    font-family: poppinsmedium;
+}
+
+span{
+    color: rgb(132,14,201);
+}
+
+p{
+    line-height: 20px;
+}
+
