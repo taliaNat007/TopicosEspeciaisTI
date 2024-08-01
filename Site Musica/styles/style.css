@@ -1,0 +1,13 @@
+body{
+    /*COR DO CORPO DO SITE*/
+    background-color: rgb(34, 34, 34);
+    /*COR DE TODAS AS FONTES*/
+    color: white
+     poppinsbold;
+     font-family: poppinsregular;
+     max-width: 1200px;
+     margin: 0 auto;
+}
+h1{
+    font-family: arial;
+} 
