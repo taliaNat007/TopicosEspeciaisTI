@@ -24,7 +24,28 @@ header {
 
 li{
     display: inline-block; /*coloca as linha do menu em linha*/
-    margin: 15px; 
+    margin: 20px; 
+}
+
+a{
+    color: white;
+}
+
+a:hover{
+    color: rgb(141,63,121,255);
+    transition: 0.3s all;
+}
+
+#local-btn{
+    border: 2px solid rgb(141,63,121,255);
+    padding: 10px;
+    border-radius: 20px;
+}
+
+#local-btn:hover{
+    background-color: rgb(141,63,121,255);
+    color: white;
+
 }
 
 h1{
@@ -45,10 +66,42 @@ h2{
 }
 
 span{
-    color: rgb(132,14,201);
+    color: rgb(141,63,121,255);
 }
 
 p{
     line-height: 20px;
+    max-width: 500px;
+    font-family: poppinslight;
 }
 
+img{
+    width: 620px;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+}
+
+form [type="submit"]{
+    height: 50px;
+    width: 50%;
+    background-color: rgb(141,63,121,255);
+    color: white;
+    font-weight: bold;
+}
+
+form [type="submit"]:hover{
+    cursor: pointer;
+}
+
+input{
+    margin-top: 20px;
+    height: 20px;
+    padding: 15px;
+    border-radius: 20px;
+    border: none;
+    font-size: 15px;
+}
